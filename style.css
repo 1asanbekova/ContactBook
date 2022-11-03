@@ -1,0 +1,24 @@
+body {
+  background: rgb(146, 66, 154);
+  background: linear-gradient(
+    90deg,
+    rgba(146, 66, 154, 1) 0%,
+    rgba(228, 137, 215, 1) 24%,
+    rgba(244, 193, 242, 1) 63%,
+    rgba(204, 178, 242, 1) 83%,
+    rgba(232, 219, 251, 1) 100%
+  );
+}
+h2 {
+  color: rgba(122, 75, 187, 0.932) !important;
+}
+#btn-add {
+  background-color: rgba(139, 97, 197, 0.932) !important;
+  box-shadow: 0px 0px 5px 2px rgb(83, 17, 119) !important;
+}
+
+input {
+  border-radius: 8px !important;
+  box-shadow: 0 0 2px 2px rgb(202, 43, 112);
+  margin: 10px;
+}
